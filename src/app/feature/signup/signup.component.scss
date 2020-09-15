@@ -1,0 +1,50 @@
+/*-------SIGN UP SECTION--------*/
+
+.signup-section {
+    background-color: #f4f4f4;
+}
+
+.plans {
+    background-color: #fff;
+    border-radius: 5px;
+    width: 90%;
+    margin-left: 5%;
+}
+
+.plans div {
+    padding: 15px;
+    border: 1px solid #e8e8e8;
+}
+
+.plans ul {
+    list-style: none;
+}
+
+.plans ul li {
+    padding: 5px 0;
+}
+
+.plans ul li ion-icon {
+    color: #e67e22;
+    padding-right: 10px;
+}
+
+.plans div:last-of-type {
+    text-align: center;
+}
+
+.plan-price {
+    font-size: 300%;
+    color: #e67e22;
+    margin-bottom: 10px;
+    font-weight: 100;
+}
+
+.plan-price span {
+    font-size: 30%;
+    font-weight: 300;
+}
+
+.plan-price-meal {
+    font-size: 80%;
+}

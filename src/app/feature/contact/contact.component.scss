@@ -1,0 +1,123 @@
+/*-------CONTACT FORM SECTION--------*/
+
+.contact-form {
+    width: 50%;
+    margin: 0 auto;
+}
+
+input[type=text],
+input[type=email],
+select,
+textarea {
+    width: 100%;
+    padding: 7px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+
+button {
+    cursor: pointer;
+}
+
+input[type=checkbox] {
+    margin: 10px 5px 10px 0;
+}
+
+select::-moz-selection {
+    font-size: 100%;
+    color: #555555;
+    font-weight: 300;
+}
+
+::-webkit-input-placeholder {
+    font-size: 100%;
+    color: #555555;
+    font-weight: 300;
+}
+
+::-moz-placeholder {
+    font-size: 100%;
+    color: #555555;
+    font-weight: 300;
+}
+
+:-ms-input-placeholder {
+    font-size: 100%;
+    color: #555555;
+    font-weight: 300;
+}
+
+::-ms-input-placeholder {
+    font-size: 100%;
+    color: #555555;
+    font-weight: 300;
+}
+
+select::-moz-selection {
+    font-size: 100%;
+    color: #555555;
+    font-weight: 300;
+}
+
+::-webkit-input-placeholder {
+    font-size: 100%;
+    color: #555555;
+    font-weight: 300;
+}
+
+::-moz-placeholder {
+    font-size: 100%;
+    color: #555555;
+    font-weight: 300;
+}
+
+:-ms-input-placeholder {
+    font-size: 100%;
+    color: #555555;
+    font-weight: 300;
+}
+
+::-ms-input-placeholder {
+    font-size: 100%;
+    color: #555555;
+    font-weight: 300;
+}
+
+select::-moz-selection {
+    font-size: 100%;
+    color: #555555;
+    font-weight: 300;
+}
+
+::-webkit-input-placeholder {
+    font-size: 100%;
+    color: #555555;
+    font-weight: 300;
+}
+
+::-moz-placeholder {
+    font-size: 100%;
+    color: #555555;
+    font-weight: 300;
+}
+
+:-ms-input-placeholder {
+    font-size: 100%;
+    color: #555555;
+    font-weight: 300;
+}
+
+::-ms-input-placeholder {
+    font-size: 100%;
+    color: #555555;
+    font-weight: 300;
+}
+
+::placeholder,
+select::selection {
+    font-size: 100%;
+    color: #555555;
+    font-weight: 300;
+}
+
+*:focus {outline: none;}

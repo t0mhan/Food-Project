@@ -1,0 +1,49 @@
+/*-------HOW-IT-WORKS SECTION--------*/
+
+.steps-section {
+    background-color: #f4f4f4;
+}
+
+.step-box:first-child {
+    text-align: right;
+    padding-right: 5%;
+    margin-top: 30px;
+}
+
+.step-box:last-child {
+    padding-left: 1%;
+    padding-right: 3%;
+    margin-top: 70px;
+}
+
+.app-screen {
+    width: 40%;
+}
+
+.working-steps {
+    margin-bottom: 50px;
+}
+
+.working-steps:last-of-type {
+    margin-bottom: 80px;
+}
+
+.working-steps div {
+    display: inline-block;
+    color: #e67e22;
+    border: 2px solid #e67e22;
+    border-radius: 50%;
+    height: 55px;
+    width: 55px;
+    text-align: center;
+    padding: 6px;
+    float: left;
+    font-size: 150%;
+    margin-right: 25px;
+}
+
+.btn-app img {
+    height: 50px;
+    width: auto;
+    margin-left: 40px;
+}
