@@ -18,8 +18,8 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-## Running unit tests
-To be implemented
+## To be implemented
+
 * Navigation Button implementation
 * Improve footer with icons
 * On image click, open cousine details
